@@ -2,8 +2,11 @@
 Basic to Advanced Recommendation systems
 
 
+
 # Introduction
-This is repository for exploring all types of recommendation systems. Currently this analysis skips the EDA part since it totally depends on the dataset you are working on. I am trying to make it generic so it could be used in recommending any type of content.
+- To exploring all types of recommendation systems.  
+- Does not contain EDA (for now)
+- Uses Dataset since it is easier to relate
 
 
 ## 1. Poplularity Based
@@ -21,6 +24,10 @@ This is repository for exploring all types of recommendation systems. Currently 
 
 
 
-# Future Support
+# ToDos
  - EDA
+ - Metrics
+ - Search
+ - Hyperparam Tuning
+ - Web interface
  
