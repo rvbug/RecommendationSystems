@@ -13,6 +13,8 @@ Basic to Advanced Recommendation systems
 
 ## 1. Poplularity Based
 
+Link to the article - here
+
 
 ## 2. Content Based
 
@@ -27,7 +29,6 @@ Basic to Advanced Recommendation systems
 
 
 # ToDos
- - EDA
  - Metrics
  - Search
  - Hyperparam Tuning
