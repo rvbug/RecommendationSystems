@@ -9,8 +9,7 @@ Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 # Introduction
 - To exploring all types of recommendation systems.  
-- Does not contain EDA (for now)
-- Uses Dataset since it is easier to relate
+
 
 
 ## 1. Poplularity Based
