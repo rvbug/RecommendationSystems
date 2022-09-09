@@ -14,24 +14,27 @@ Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## 1. Poplularity Based
 
-Link to the article - here
+Article Link
+Kaggle Notebook Link
 
 
 ## 2. Content Based
 
+Article Link
+Kaggle Notebook Link
 
 ## 3. Collaborative Based
 
-
-
-## 4. Ranking
-
+Coming Soon
 
 
 
 # ToDos
  - Metrics
- - Search
- - Hyperparam Tuning
- - Web interface
+ - Hyperparamameter Tuning
+ - API 
+ - Deployment
+ - Monitoring
+
+ 
  
