@@ -13,15 +13,15 @@ Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 ## 1. Poplularity Based
-
-Article Link
-Kaggle Notebook Link
+ 
+[Article](https://hashnode.com/preview/63008ddd74730d13020f14b9)  
+[Kaggle - Popularity Based ](https://kaggle.com/rvbugged/popularity-based) 
 
 
 ## 2. Content Based
 
-Article Link
-Kaggle Notebook Link
+[Article](https://hashnode.com/preview/63008ddd74730d13020f14b9)    
+[Kaggle - Content Based](https://kaggle.com/rvbugged/content-based)   
 
 ## 3. Collaborative Based
 
