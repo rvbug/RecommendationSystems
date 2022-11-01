@@ -35,6 +35,7 @@ Coming Soon
  - API 
  - Deployment
  - Monitoring
+ - MLFlow
 
  
  
