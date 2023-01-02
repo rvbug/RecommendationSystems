@@ -36,6 +36,8 @@ Coming Soon
  - Deployment
  - Monitoring
  - MLFlow
+ - DVC
+ - BentoML
 
  
  
