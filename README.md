@@ -1,5 +1,6 @@
-# Recommendation Systems
-Basic to Advanced Recommendation systems
+# Introduction
+
+Having spent last couple of years building state-of-the-art recommendation system, I have shared my learnings here. This repo is still work in progress.
 
 
 # Reference
