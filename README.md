@@ -1,6 +1,19 @@
+
+---
+
+<p align="center"> 
+ 
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-plastic&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-plastic&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-plastic&logo=kaggle&logoColor=white">
+</p>
+
+---
+
 # Introduction
 
-Having spent last couple of years building state-of-the-art recommendation system, I have shared my learnings here. This repo is still work in progress.
+I am sharing my learnings of my experience building state-of-the-art recommendation systems. 
 
 
 # Reference
@@ -24,21 +37,9 @@ Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 [Article](https://rvbug.hashnode.dev/recommendation-systems-part-i)      
 [Kaggle - Content Based](https://kaggle.com/rvbugged/content-based)   
 
-## 3. Collaborative Based
 
-Coming Soon
-
-
-
-# ToDos
- - Metrics
- - Hyperparamameter Tuning
- - API 
- - Deployment
- - Monitoring
- - MLFlow
- - DVC
- - BentoML
-
- 
+# References
+[Kaggle](https://www.kaggle.com/)  
+[TMDB Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
+[Recommendation System Wiki](https://en.wikipedia.org/wiki/Recommender_system)  
  
