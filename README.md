@@ -13,7 +13,7 @@
 # Introduction
 
 This repository will help you learn the basics of Recommendation Systems. 
-If you want to know how GTP models work, take a look at this [NLP repo](https://github.com/rvbug/NLP)  
+If you want to know how GTP models works, take a look at this [NLP repo](https://github.com/rvbug/NLP)  
 
 
 # Reference
