@@ -13,34 +13,26 @@
 # Introduction
 
 This repository will help you learn the basics of Recommendation Systems. 
-If you want to know how GTP models works, take a look at this [NLP repo](https://github.com/rvbug/NLP)  
 
-
-# Reference
-
-Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-
-
-# Introduction
-- To exploring all types of recommendation systems.  
+![image](https://github.com/rvbug/RecommendationSystems/assets/10928536/b8cceddc-b641-415c-a850-52479a71c2a2)
 
 
 
-## 1. Poplularity Based
- 
-[Article](https://rvbug.hashnode.dev/recommendation-systems-part-i)    
-[Kaggle - Popularity Based ](https://kaggle.com/rvbugged/popularity-based) 
+## 1. Poplularity Based  
+[TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
+[Article](https://rvbug.hashnode.dev/recommendation-systems-part-i)      
+[Kaggle - Popularity Based ](https://kaggle.com/rvbugged/popularity-based)   
 
 
-## 2. Content Based
-
+## 2. Content Based  
+[TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
 [Article](https://rvbug.hashnode.dev/recommendation-systems-part-i)      
 [Kaggle - Content Based](https://kaggle.com/rvbugged/content-based)   
 
 
-
-# Future
-- Transformer Based Models
+# Related Repos
+If you want to know how GTP models works, go through this [NLP repo](https://github.com/rvbug/NLP)    
+Would you like to use a standard structure for your next ML project? use this repo [cookie-ml](https://github.com/rvbug/cookie-ml)  
 
 
 
